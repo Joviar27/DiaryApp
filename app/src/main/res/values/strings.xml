@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">DiaryApp</string>
+
+    <string name="menu_add_diary">Add Diary</string>
+    <string name="menu_logout">Logout</string>
+
+    <string name="masuk">Masuk</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="daftar">Daftar</string>
+    <string name="nama">Nama</string>
+
+    <string name="welcome">Selamat Datang, %s</string>
+    <string name="email">Email : %s</string>
+
+    <string name="hint_diary_title">Judul</string>
+    <string name="hint_diary_content">Ceritakan Harimu !</string>
+
+    <string name="signin_success">Berhasil Masuk</string>
+    <string name="signin_failed">Gagal Masuk : %s</string>
+
+    <string name="logout_success">Berhasil Keluar</string>
+
+    <string name="signup_success">Berhasil Daftar</string>
+    <string name="signup_failed">Gagal Daftar : %s</string>
+
+    <string name="email_empty">Email harus diisi</string>
+    <string name="pass_empty">Password harus diisi</string>
+    <string name="not_empty">Harus diisi</string>
+
+    <string name="choose_picture">Pilh gambar dari galeri</string>
+
+    <string name="failed_get">Gagal mendapatkan data</string>
+    <string name="failed_image">Gagal memuat gambar</string>
+
+    <string name="failed_save">Gagal menyimpan data</string>
+    <string name="failed_upload">Gagal mengunggah gambar</string>
+
+    <string name="btn_save">Simpan Diary</string>
+    <string name="btn_add_image">Tambah Gambar</string>
+    <string name="btn_update_iamge">Ganti Gambar</string>
+
+</resources>
